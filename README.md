@@ -13,7 +13,7 @@ A Claude Code plugin that creates comprehensive study guides from Huberman Lab p
 ## Installation
 
 ```bash
-claude /plugin install github:ankitcherian/huberman-notes-plugin
+claude /plugin install github:Ankit-Cherian/huberman-notes-plugin
 ```
 
 ## Usage
