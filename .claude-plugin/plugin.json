@@ -1,0 +1,11 @@
+{
+  "name": "huberman-notes",
+  "description": "Create comprehensive study guides from Huberman Lab podcast episodes with actionable protocols, scientific references, and structured notes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ankit Cherian"
+  },
+  "repository": "https://github.com/Ankit-Cherian/huberman-notes-plugin",
+  "license": "MIT",
+  "keywords": ["huberman", "huberman-lab", "podcast", "notes", "health", "neuroscience", "protocols", "study-guide", "supplements"]
+}
